@@ -1,5 +1,5 @@
-#codingcolor
-##Frittelli Matteo 
-##4Binf
-##tipsit
-<a href "https://github.com/ErFritto/CodingColor.git"></a>
+# codingcolors
+## Fritelli Matteo 
+## 4binf
+## TPSIT
+<a href="https://github.com/ErFritto">github.com/ErFritto</a>
